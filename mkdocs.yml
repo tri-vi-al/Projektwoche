@@ -1,0 +1,15 @@
+site_name: LHC
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: grey
+  logo: assets/Cern_Logo.svg
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@squidfunk
+      name: squidfunk on Fosstodon
+  generator: false
+extra_css:
+  - assets/stylesheet/custom.css
